@@ -1,0 +1,27 @@
+
+
+
+.container{
+     left:25%; 
+}
+.carousel-inner > .carousel-item {
+    width : 100%; 
+    right: 15%; 
+ }
+ .page{
+      left: 25%; 
+ }
+ .col-md-8{
+      left: 0%; 
+ }
+
+ .check{
+      right: 5%;
+ }
+ .col-md-4 > {
+      right : 5%; 
+ }
+ 
+
+
+
